@@ -2,9 +2,7 @@
 
 a Graduated from Surabaya State University in 2024 with a major in Informatics Management with GPA of 3.72/4.00.
 
-has 2 years experience during lectures in present, Developing Android App and Website.
-
-And currently exploring and expanding my expertise in Security Research with a focus on Rust and Solana (Web.3). This is quite intriguing, as not many developers can utilize the Rust language effectively, leading to frequent logic errors, system bugs, and data leaks.
+has 2 years experience during lectures in present, Developing Android App with Flutter.
 
 ## About
 
@@ -18,12 +16,6 @@ And currently exploring and expanding my expertise in Security Research with a f
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-000000?style=flat&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=white)
 
 ## Connect
 
