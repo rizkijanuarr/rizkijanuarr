@@ -9,7 +9,6 @@ has 2 years experience during lectures in present, Developing Android App with F
 - 🎓 B.S. Informatics Management, Universitas Negeri Surabaya (2024) — GPA 3.72/4.00
 - 📱 2+ years building Android apps with Flutter
 - 🚀 Published 2+ apps on the Google Play Store
-- 🚀 Still exploring Rust, Solana, Web.3
 
 
 ## Tech Stack
